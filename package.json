@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0",
+    "openmeteo": "^1.2.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
